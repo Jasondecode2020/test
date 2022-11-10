@@ -3,3 +3,4 @@ temp.txt
 3) local
 2) remote
 4) remote
+5) local
