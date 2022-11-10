@@ -1,2 +1,6 @@
 temp.txt
+<<<<<<< HEAD
 1) local
+=======
+1) remote
+>>>>>>> 366e1bd431734c0dbfd5bc9517ff56036fbbda21
